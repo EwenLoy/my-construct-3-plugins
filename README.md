@@ -3,7 +3,7 @@
 # Мои дополнения для Construct 3
 
 
-### 📑 Содержание
+### 📑 Весь список (пока небольшой)
 [**Dictionary+**](#-dictionary-plus) 
 
 [**Dictionary+**](#-dictionary-plus) 
